@@ -25,7 +25,7 @@ SECRET_KEY = '9+pw&9@ghwrdwjz30^t48ts0z*#n$na-*7)i&ozhsalp&ol#!r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'hhalfpap-pc']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'hhalfpap-pc', 'McCavity.pythonanywhere.com']
 
 
 # Application definition
